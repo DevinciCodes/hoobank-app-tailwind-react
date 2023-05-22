@@ -3,10 +3,9 @@ Banking application utilizing tailwind and react
 
 ### Full-Screen
 
-![bank-app-fullscreen](https://github.com/DevinciCodes/hoobank-app-tailwind-react/assets/104049282/2941bf69-2b21-47f0-949e-8392854fe142)
+![bank-app-fullscreen 2](https://github.com/DevinciCodes/hoobank-app-tailwind-react/assets/104049282/8be203fa-1d92-4e40-94c0-0ba6abc325e5)
 
 
-### Mobile
+###Mobile
 
-
-![bank-app-mobile](https://github.com/DevinciCodes/hoobank-app-tailwind-react/assets/104049282/a2aaad96-343d-422d-be6a-8c34a3ec71e5)
+![bank-app-mobile](https://github.com/DevinciCodes/hoobank-app-tailwind-react/assets/104049282/b091bfa7-32ca-48f3-a9ea-feb951634b88)
